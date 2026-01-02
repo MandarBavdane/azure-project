@@ -44,7 +44,7 @@
 						},
 						"formatSettings": {
 							"type": "ParquetWriteSettings",
-							"maxRowsPerFile": -1
+							"maxRowsPerFile": 0
 						}
 					},
 					"enableStaging": false,
