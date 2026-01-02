@@ -230,7 +230,7 @@
 													{
 														"name": "cdc",
 														"value": {
-															"value": "@activity('max_cdc').output.resultSets[0].rows[0].cdc",
+															"value": "SELECT '@{activity('max_cdc').output.resultSets[0].rows[0].cdc}' AS cdc\n",
 															"type": "Expression"
 														}
 													}
