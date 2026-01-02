@@ -1,0 +1,9 @@
+{
+	"name": "msbazureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d92e403-b946-45b7-8e64-33fb8522edff",
+		"tenantId": "8d1a69ec-03b5-4345-ae21-dad112f5fb4f"
+	}
+}
